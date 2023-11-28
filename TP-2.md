@@ -118,14 +118,14 @@ Interface : 192.168.1.26 --- 0x15
 
 🌞 **Wireshark it**
 
-[trames](./dossier_photo/trames_arp.pcapng)
+[trames](dossier_photo/trames_arp.pcapng)
 
 Le broadcast permet d'envoyer la requête à tout le monde present sur le réseaux,
 le CeLink est mon pc et Asus est le pc du receveur..
 
 🌞 **Wireshark it**
 
-[trames](./dossier_photo/trames_dhcp.pcapng)
+[trames](dossier_photo/trames_dhcp.pcapng)
 
 Your (client) IP address: 10.33.16.140
 
