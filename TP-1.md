@@ -275,7 +275,7 @@ PS C:\Users\qcass> nslookup toto.com
 
 # Bonus : avant-goût TCP et UDP
 
-![wireshark_yt](dosssier_photo/../dossier_photo/yt.png)
+![wireshark_yt](/dossier_photo/yt.png)
 
 On voit que quand on regarde une vidéo youtube on reçoit des paquets de l'adresse 91.68.245.140 vers la notre et pour cela on nous a donné le port 443.
 
